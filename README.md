@@ -1,10 +1,10 @@
-## FIT FUSION
+## ASSET FLOW
 
 Este repositorio serve para alojar o projeto para avaliação final (Época Recurso) da cadeira de Tecnologias Internet da UMAIA.
 
 ## DESCRIÇÃO
 
-A FIT FUSION é uma plataforma fitness do ginásio da equipa FIT FUSION para incentivo à prática de exercício físico.
+A ASSET FLOW...
 
 ## RELATÓRIO
 
